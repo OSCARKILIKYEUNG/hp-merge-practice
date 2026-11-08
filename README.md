@@ -1,8 +1,10 @@
 ﻿# HP Merge Practice
 
-A playable mobile-web merge game with two independent versions.
+A playable mobile-web merge game with three independent versions.
 
-Spell & Merge / Teahouse Duel is the new default: a dense 7x9 board, three four-tier chains, covered discoveries, Coins, Study upgrades, enemy HP and three duels. Merge matching pieces and drag Fire/Wind magic to attack or Water to heal. Successful actions advance a visible enemy attack counter.
+Fusion Duel is the new default: original Classic artwork and right-hand animated Harry, a larger 6x8 board, clear matching cues, permanent Wand and Spellbook, direct spell delivery, Counter, Healing, Shield, covered discoveries, Coins and Study upgrades. Japanese and English are supported.
+
+Teahouse Duel is preserved through ?version=teahouse with its bright Q-style art, 7x9 board and original progress. Classic v008 is preserved through ?version=classic and versions/classic-v008/ with all eight original levels. All three save systems stay independent.
 
 Classic v008 is preserved at versions/classic-v008/ and through the Classic version button. Its eight original levels, Wand/Spellbook crafting and right-hand extended casting pose remain playable. Classic and Teahouse progress are stored separately.
 
