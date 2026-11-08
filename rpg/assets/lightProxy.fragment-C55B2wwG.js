@@ -1,0 +1,1 @@
+export{K as lightProxyPixelShaderWGSL}from"./RpgApp-dLtmiUwI.js";

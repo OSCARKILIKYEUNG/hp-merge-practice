@@ -1,0 +1,1 @@
+export{pi as defaultVertexShader}from"./RpgApp-dLtmiUwI.js";

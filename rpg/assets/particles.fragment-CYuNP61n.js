@@ -1,0 +1,1 @@
+export{tr as particlesPixelShader}from"./RpgApp-dLtmiUwI.js";

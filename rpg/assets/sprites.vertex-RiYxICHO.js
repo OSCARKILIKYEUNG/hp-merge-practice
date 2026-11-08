@@ -1,0 +1,1 @@
+export{m as spritesVertexShaderWGSL}from"./RpgApp-dLtmiUwI.js";

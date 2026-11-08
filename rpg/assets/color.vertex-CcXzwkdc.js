@@ -1,0 +1,1 @@
+export{yi as colorVertexShader}from"./RpgApp-dLtmiUwI.js";

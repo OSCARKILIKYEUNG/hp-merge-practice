@@ -1,0 +1,1 @@
+export{$i as PBRMaterial,ea as RegisterPBRMaterial,ta as RegisterPbrMaterial}from"./RpgApp-dLtmiUwI.js";

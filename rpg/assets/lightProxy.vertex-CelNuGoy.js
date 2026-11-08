@@ -1,0 +1,1 @@
+export{pr as lightProxyVertexShader}from"./RpgApp-dLtmiUwI.js";

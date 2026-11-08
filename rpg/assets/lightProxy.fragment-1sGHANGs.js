@@ -1,0 +1,1 @@
+export{mr as lightProxyPixelShader}from"./RpgApp-dLtmiUwI.js";
