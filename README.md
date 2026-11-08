@@ -1,6 +1,6 @@
 ﻿# HP Merge Practice
 
-A playable mobile-web game concept: craft a Wand and Spellbook in the first lesson, then choose spells and face two Duel opponents.
+A playable mobile-web game concept with eight levels: craft a Wand and Spellbook, then choose spells for duels, shields, a patrol, a two-phase boss, a Club rescue and a finite-supply exam.
 
 Japanese and English are available. Hogwarts and Gryffindor themes, illustrated characters and items, spell effects, HP, enemy attacks, wins and losses are included.
 The game is in development; visual feedback and real-device testing are ongoing.
