@@ -1,0 +1,1 @@
+export{tn as defaultVertexShaderWGSL}from"./RpgApp-DtWdwBTX.js";

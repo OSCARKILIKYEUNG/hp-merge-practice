@@ -1,0 +1,1 @@
+export{on as colorCorrectionPixelShaderWGSL}from"./RpgApp-DtWdwBTX.js";

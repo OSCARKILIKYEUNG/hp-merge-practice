@@ -1,0 +1,1 @@
+export{I as openpbrVertexShaderWGSL}from"./RpgApp-DtWdwBTX.js";

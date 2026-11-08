@@ -1,1 +1,0 @@
-export{wn as gaussianSplattingVertexDeclarationWGSL}from"./RpgApp-dLtmiUwI.js";

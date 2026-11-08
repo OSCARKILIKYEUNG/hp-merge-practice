@@ -1,0 +1,1 @@
+export{yn as backgroundVertexShaderWGSL}from"./RpgApp-DtWdwBTX.js";

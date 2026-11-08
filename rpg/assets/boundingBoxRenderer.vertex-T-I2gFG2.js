@@ -1,0 +1,1 @@
+export{Ci as boundingBoxRendererVertexShader}from"./RpgApp-DtWdwBTX.js";

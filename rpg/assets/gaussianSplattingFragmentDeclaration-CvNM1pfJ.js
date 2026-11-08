@@ -1,0 +1,1 @@
+export{Tn as gaussianSplattingFragmentDeclarationWGSL}from"./RpgApp-DtWdwBTX.js";

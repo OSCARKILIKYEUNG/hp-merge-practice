@@ -1,0 +1,1 @@
+export{Go as FlowGraphGetVariableBlock,Ko as RegisterFlowGraphGetVariableBlock}from"./RpgApp-DtWdwBTX.js";

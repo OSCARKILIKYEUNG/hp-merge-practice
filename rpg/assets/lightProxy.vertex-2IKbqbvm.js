@@ -1,0 +1,1 @@
+export{G as lightProxyVertexShaderWGSL}from"./RpgApp-DtWdwBTX.js";

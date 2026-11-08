@@ -1,0 +1,1 @@
+export{Li as OptimizeIndices}from"./RpgApp-DtWdwBTX.js";

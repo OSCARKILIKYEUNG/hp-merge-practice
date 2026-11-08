@@ -1,0 +1,1 @@
+export{Gn as rsmFullGlobalIlluminationPixelShader}from"./RpgApp-DtWdwBTX.js";
