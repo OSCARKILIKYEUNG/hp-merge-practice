@@ -1,9 +1,13 @@
 ﻿# HP Merge Practice
 
-A playable mobile-web game concept with eight levels: craft a Wand and Spellbook, then choose spells for duels, shields, a patrol, a two-phase boss, a Club rescue and a finite-supply exam.
+A playable mobile-web merge game with two independent versions.
+
+Spell & Merge / Teahouse Duel is the new default: a dense 7x9 board, three four-tier chains, covered discoveries, Coins, Study upgrades, enemy HP and three duels. Merge matching pieces and drag Fire/Wind magic to attack or Water to heal. Successful actions advance a visible enemy attack counter.
+
+Classic v008 is preserved at versions/classic-v008/ and through the Classic version button. Its eight original levels, Wand/Spellbook crafting and right-hand extended casting pose remain playable. Classic and Teahouse progress are stored separately.
 
 Japanese and English are available. Hogwarts and Gryffindor themes, illustrated characters and items, spell effects, HP, enemy attacks, wins and losses are included.
-Visible battle goals, focused Have/Need recipes, nearby item output, tap-to-prepare Books, optional gesture guidance, merge feedback and move-based Flipendo counters support learning and tactical choices.
+Visible targets, nearby item output, optional gesture guidance and merge feedback support learning. Classic additionally retains focused Have/Need recipes, tap-to-prepare Books and Flipendo counters.
 The game is in development; visual feedback and real-device testing are ongoing.
 Progress is stored in this browser and is separate from any localhost save.
 
